@@ -1,4 +1,4 @@
-# hardhat-fund-me-sat
+# hardhat-fund-me
 
 Hi, This repository is used to run hardhat fund me contracts.
 
